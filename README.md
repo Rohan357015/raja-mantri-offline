@@ -10,7 +10,7 @@ A multiplayer, web-based implementation of the classic Indian game **Raja Mantri
 
 ## 🚀 Play Now
 
-Try the game live: [Demo Link](#)
+Try the game live: [[Demo Link](#)](https://benevolent-fudge-8a0596.netlify.app/)
 
 ## 📸 Screenshots
 
