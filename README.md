@@ -1,12 +1,37 @@
-# React + Vite
+# Raja Mantri Chor Sipahi Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A multiplayer, web-based implementation of the classic Indian game **Raja Mantri Chor Sipahi** in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Game Thumbnail](insert-image-url-here)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Play Now
+
+Try the game live: [Demo Link](#)
+
+## 📸 Screenshots
+
+*Paste your main gameplay screenshot below:*
+
+![Gameplay Screenshot](insert-image-url-here)
+
+---
+
+## 🎮 Game Features
+
+- 4 Players: Raja, Mantri, Chor, Sipahi
+- Automatic role assignment every round
+- Only Raja and Sipahi roles revealed initially
+- Any player can guess the Chor (between Chor and Mantri)
+- Points scoring based on guesses and roles
+- Scoreboard modal to view scores at any time
+- Responsive design for desktop and mobile
+
+---
+
+## 🛠️ Getting Started
+
+1. **Clone the repository**
