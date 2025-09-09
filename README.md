@@ -4,7 +4,7 @@ A multiplayer, web-based implementation of the classic Indian game **Raja Mantri
 
 ---
 
-![Game Thumbnail](assests/Screenshot 2025-09-09 212718.png)
+![Game Thumbnail](assets/Screenshot 2025-09-09 212718.png)
 
 ---
 
