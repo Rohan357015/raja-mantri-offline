@@ -4,7 +4,7 @@ A multiplayer, web-based implementation of the classic Indian game **Raja Mantri
 
 ---
 
-![Game Thumbnail](assets/Screenshot 2025-09-09 212718.png)
+![Game Thumbnail](game.png)
 
 ---
 
@@ -16,7 +16,7 @@ Try the game live: [[Demo Link](#)](https://benevolent-fudge-8a0596.netlify.app/
 
 *Paste your main gameplay screenshot below:*
 
-![Gameplay Screenshot](insert-image-url-here)
+![Gameplay Screenshot](game.png)
 
 ---
 
